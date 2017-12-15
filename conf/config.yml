@@ -4,7 +4,7 @@ showLogo: true
 # Log messages with this level and above. Valid levels are DEBUG, INFO, WARN, ERROR, OFF
 logLevel: INFO
 # Directory where all plugins reside
-#libDir: ../lib
+libDir: /lib
 
 # Connectivity
 # webfacing URL under which this client is reachable. Used for loadbalancing / failover
